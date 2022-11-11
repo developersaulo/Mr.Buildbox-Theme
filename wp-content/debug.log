@@ -1,0 +1,2 @@
+[10-Nov-2022 19:48:27 UTC] PHP Fatal error:  Cannot redeclare wp_nav_menu() (previously declared in C:\xampppserver2\htdocs\mrbuildbox\wp-includes\nav-menu-template.php:57) in C:\xampppserver2\htdocs\mrbuildbox\wp-content\themes\buildboxdesafio\header.php on line 16
+[11-Nov-2022 15:25:22 UTC] Erro de evento de reagendamento do cron para o gancho: wp_privacy_delete_old_export_files, código de erro: could_not_set, mensagem de erro: Não foi possível salvar a lista de evento do cron, dados: {"schedule":"hourly","args":[],"interval":3600}
